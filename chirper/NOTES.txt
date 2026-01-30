@@ -1,0 +1,7 @@
+npm run build
+- for vite css to apply without the powershell
+
+github push to repository
+- git add .
+- git commit -m "Updated codes"
+- git push
